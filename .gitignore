@@ -1,0 +1,21 @@
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code settings
+.vscode/
+
+# IDE files
+.idea/
+*.iml
+
+# Build output
+bin/
+out/
+target/
+build/
+
+# Logs
+*.log
